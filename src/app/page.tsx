@@ -686,13 +686,13 @@ doc.setTextColor(
   minHeight: "100vh",
   padding: "4px",
   gap: "20px",
-   backgroundColor: "#0f172a",
+    backgroundColor: "#0f172a",
   color: "white",
 }}
     >
       <div
   style={{
-    backgroundColor: "#1e293b",
+     backgroundColor: "#1e293b",
     padding: "4px",
     borderRadius: "16px",
     width: "100%",
@@ -803,7 +803,7 @@ doc.setTextColor(
  <label
   htmlFor="file-upload"
   style={{
-    backgroundColor: "#386cde",
+    backgroundColor: "#422a14",
     color: "white",
     padding: "10px 16px",
     borderRadius: "8px",
@@ -1189,7 +1189,7 @@ fontWeight: "bold",
         fontWeight: "bold",
       }}
     >
-      ⚠
+      ⚠️
     </span>
   )}
 </td>
@@ -1299,7 +1299,7 @@ borderRadius: "8px",
     textAlign: "center",
   }}
 >
-  ⚠ Verify and edit all details before downloading the PDF.
+  ⚠ Verify and edit all details above for correct SGPA,before downloading the PDF.
 </p>
 
   <button
@@ -1566,11 +1566,11 @@ borderRadius: "8px",
 
   <p>• Upload a clear and properly cropped marks memo/image.</p>
 
-  <p>• ⚠ indicates unusual credit values/ cross check.</p>
+   <p>• You can edit names, grades, credits and subjects.</p>
+
+  <p>• ⚠️ indicates unusual credit values/ cross check.</p>
 
   <p>• JNTU results image is preferable.</p>
-
-  <p>• You can edit names, grades, credits and subjects.</p>
 
   <p>• Use Add and Delete button if any subject required/removable. </p>
 
